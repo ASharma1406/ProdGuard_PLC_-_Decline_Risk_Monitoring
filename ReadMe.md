@@ -96,7 +96,6 @@ Each high-risk SKU includes explanation and recommended action.
 * Scikit-learn
 * Matplotlib, Seaborn
 * MLxtend
-* Power BI
 
 
 
@@ -121,4 +120,5 @@ Each high-risk SKU includes explanation and recommended action.
 ***PG Diploma in Big Data Analytics***
 
 ***C-DAC Noida***
+
 
