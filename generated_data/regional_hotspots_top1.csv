@@ -1,0 +1,26 @@
+sku,year_month,region,units_sold,region_sales_share,decline_risk_prob,regional_action
+ju-021,2024-02,pl-south,965,0.3509090909090909,0.7340749040408897,Prioritize corrective actions in pl-south
+mi-006,2023-12,pl-central,986,0.3436737539212269,0.9307950429220214,Prioritize corrective actions in pl-central
+mi-022,2024-08,pl-central,1218,0.345042492917847,0.7346548408363013,Prioritize corrective actions in pl-central
+mi-023,2024-05,pl-north,1559,0.3466755614854347,0.8926819356029227,Prioritize corrective actions in pl-north
+mi-023,2024-08,pl-central,1553,0.33520397150874165,0.7602860794948518,Prioritize corrective actions in pl-central
+mi-026,2023-12,pl-south,1261,0.37131919905771493,0.9220125946417876,Prioritize corrective actions in pl-south
+re-004,2024-03,pl-north,1823,0.3591410559495666,0.961841534732006,Prioritize corrective actions in pl-north
+re-004,2024-05,pl-central,1420,0.3435760948463586,0.944435921129965,Prioritize corrective actions in pl-central
+re-007,2023-12,pl-central,1646,0.35314310233855395,0.8332909409773327,Prioritize corrective actions in pl-central
+re-007,2024-10,pl-central,1648,0.35694173705869614,0.7081365346325678,Prioritize corrective actions in pl-central
+re-015,2022-10,pl-south,2016,0.36193895870736087,0.7078085595648795,Prioritize corrective actions in pl-south
+re-025,2024-06,pl-central,1435,0.363567266278186,0.9164542357705108,Prioritize corrective actions in pl-central
+sn-010,2024-12,pl-north,1390,0.36578947368421055,0.8428884554095337,Prioritize corrective actions in pl-north
+sn-027,2023-12,pl-south,1234,0.364441819255759,0.7679877150254004,Prioritize corrective actions in pl-south
+sn-028,2024-05,pl-central,1649,0.3545474091593206,0.8987572838226373,Prioritize corrective actions in pl-central
+yo-009,2024-03,pl-central,2031,0.3480123372172721,0.897836332252099,Prioritize corrective actions in pl-central
+yo-009,2024-05,pl-south,2337,0.38361785948785293,0.7298423444146142,Prioritize corrective actions in pl-south
+yo-012,2024-12,pl-south,1293,0.3579734219269103,0.7435684513367685,Prioritize corrective actions in pl-south
+yo-014,2024-03,pl-south,1535,0.34027931722456217,0.9676779027396102,Prioritize corrective actions in pl-south
+yo-014,2024-12,pl-central,978,0.35179856115107916,0.7942819865781667,Prioritize corrective actions in pl-central
+yo-016,2024-12,pl-central,1369,0.3489676268162121,0.9481937792445264,Prioritize corrective actions in pl-central
+yo-018,2024-06,pl-south,2088,0.36910022980378293,0.9234332161417673,Prioritize corrective actions in pl-south
+yo-018,2024-12,pl-north,1334,0.3790849673202614,0.8788838924341699,Prioritize corrective actions in pl-north
+yo-020,2024-05,pl-south,2174,0.3455730408520108,0.9687274415746033,Prioritize corrective actions in pl-south
+yo-029,2024-10,pl-central,1294,0.3478494623655914,0.7132187702171993,Prioritize corrective actions in pl-central
